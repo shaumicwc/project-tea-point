@@ -1,0 +1,13 @@
+.header-btn {
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+}
+.xyz-btn{
+    margin-top: -6rem;
+    left: 5rem;
+    background-color: white;
+    border: none;
+
+}
+.xyz-btn-icon{
+    width: 40px;
+}

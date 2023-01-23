@@ -42,6 +42,41 @@
 .xyz-glass-2 {
     background-image: linear-gradient(to right, #FFE7E6, #fff4f3);
 }
-.xyz-gradient-2{
+
+.xyz-gradient-2 {
     background-image: linear-gradient(to right, #FFE7E6, #fff4f3);
+}
+
+/* --------------------client----------------- */
+.client-gradient {
+    background-image: linear-gradient(to right, rgba(255, 136, 0, 0.897), rgba(231, 15, 15, 0.747));
+}
+
+.xyz-client-btn {
+    background-color: rgb(255, 255, 255);
+    color: orangered;
+}
+
+.client-one {
+    opacity: 25%;
+}
+
+
+.xyz-box {
+    top: -1.9rem;
+    left: -1rem;
+    border: 3px solid white;
+
+}
+
+.xyz-main-box {
+    top: 10rem;
+    z-index: 100;
+    left: -3rem;
+}
+
+.xyz-main-box-2 {
+    top: -1.9rem;
+    left: -1rem;
+    border: 3px solid white;
 }

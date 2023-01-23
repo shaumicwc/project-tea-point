@@ -1,13 +1,25 @@
+.xyz-banner-title {
+    /* font-weight: 700; */
+    font-size: 65px;
+}
+
 .header-btn {
     background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
 }
-.xyz-btn{
+
+.xyz-btn {
     margin-top: -6rem;
     left: 5rem;
     background-color: white;
     border: none;
 
 }
-.xyz-btn-icon{
+
+.xyz-btn-icon {
     width: 40px;
+}
+
+/* --------------featured product-------------- */
+.xyz-product-1 {
+    background: linear-gradient(180deg, #F4F4F4 0%, rgba(244, 244, 244, 0) 100%);
 }
